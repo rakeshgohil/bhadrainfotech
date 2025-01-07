@@ -3197,7 +3197,7 @@ img{
 	font-size:16px;
 	display:block;
 	margin-top:0px;
-	text-transform:capitalize;
+	text-transform:lowercase;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
